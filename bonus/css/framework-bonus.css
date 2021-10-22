@@ -143,3 +143,110 @@
     flex-basis: calc((100% / 27) * 27);
     max-width: calc((100% / 27) * 27);
 }
+
+
+/* ***** offset ***** */
+
+.col-xs-offset-1 {
+    margin-left: calc((100% / 27) * 1);
+}
+
+.col-xs-offset-2 {
+    margin-left: calc((100% / 27) * 2);
+}
+
+.col-xs-offset-3 {
+    margin-left: calc((100% / 27) * 3);
+}
+
+.col-xs-offset-4 {
+    margin-left: calc((100% / 27) * 4);
+}
+
+.col-xs-offset-5 {
+    margin-left: calc((100% / 27) * 5);
+}
+
+.col-xs-offset-6 {
+    margin-left: calc((100% / 27) * 6);
+}
+
+.col-xs-offset-7 {
+    margin-left: calc((100% / 27) * 7);
+}
+
+.col-xs-offset-8 {
+    margin-left: calc((100% / 27) * 8);
+}
+
+.col-xs-offset-9 {
+    margin-left: calc((100% / 27) * 9);
+}
+
+.col-xs-offset-10 {
+    margin-left: calc((100% / 27) * 10);
+}
+
+.col-xs-offset-11 {
+    margin-left: calc((100% / 27) * 11);
+}
+
+.col-xs-offset-12 {
+    margin-left: calc((100% / 27) * 12);
+}
+
+.col-xs-offset-13 {
+    margin-left: calc((100% / 27) * 13);
+}
+
+.col-xs-offset-14 {
+    margin-left: calc((100% / 27) * 14);
+}
+
+.col-xs-offset-15 {
+    margin-left: calc((100% / 27) * 15);
+}
+
+.col-xs-offset-16 {
+    margin-left: calc((100% / 27) * 16);
+}
+
+.col-xs-offset-17 {
+    margin-left: calc((100% / 27) * 17);
+}
+
+.col-xs-offset-18 {
+    margin-left: calc((100% / 27) * 18);
+}
+
+.col-xs-offset-19 {
+    margin-left: calc((100% / 27) * 19);
+}
+
+.col-xs-offset-20 {
+    margin-left: calc((100% / 27) * 20);
+}
+
+.col-xs-offset-21 {
+    margin-left: calc((100% / 27) * 21);
+}
+
+.col-xs-offset-22 {
+    margin-left: calc((100% / 27) * 22);
+}
+
+.col-xs-offset-23 {
+    margin-left: calc((100% / 27) * 23);
+}
+
+.col-xs-offset-24 {
+    margin-left: calc((100% / 27) * 24);
+}
+
+.col-xs-offset-25 {
+    margin-left: calc((100% / 27) * 25);
+}
+
+.col-xs-offset-26 {
+    margin-left: calc((100% / 27) * 26);
+}
