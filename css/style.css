@@ -8,8 +8,8 @@
 
 .box {
     background-color: #FFC0CB;
-    height: 100px;
+    height: 200px;
     text-align: center;
-    line-height: 100px;
+    line-height: 200px;
     border: 1px solid black;
 }
