@@ -9,7 +9,7 @@
 }
 
 .box {
-    min-height: 40px;
+    padding-top: calc(100% / 27);
 }
 
 .black {
