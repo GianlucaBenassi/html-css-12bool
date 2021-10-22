@@ -8,8 +8,16 @@
 
 .box {
     background-color: #FFC0CB;
-    height: 200px;
-    text-align: center;
-    line-height: 200px;
+    min-height: 200px;
     border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box.nested {
+    background-color: #F07F80;
+    border: 1px solid #FFC0CB;
+    min-height: 200px;
 }
