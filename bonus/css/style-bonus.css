@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    margin-top: 50px
+}
+
+.box {
+    height: 40px;
+    width: calc(100% / 27);
+}
+
+.box:before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
