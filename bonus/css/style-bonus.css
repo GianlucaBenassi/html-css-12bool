@@ -9,15 +9,8 @@
 }
 
 .box {
-    height: 40px;
-    width: calc(100% / 27);
+    min-height: 40px;
 }
-
-.box:before {
-    content: "";
-    display: block;
-    padding-top: 100%;
-  }
 
 .black {
     background-color: black;
@@ -40,7 +33,7 @@
 }
 
 .lightblue {
-    background-color: lightblue;
+    background-color: #426899;
 }
 
 .yellow {
